@@ -1,26 +1,30 @@
 # BMI Calculator App
-
-A simple and intuitive Body Mass Index (BMI) Calculator built using Kotlin. This app helps users calculate their BMI based on height and weight.
-
----
-
-## Features
-
-- **User-Friendly Interface:** Enter height and weight easily.
-- **Real-Time BMI Calculation:** Instantly calculate BMI upon input.
-- **Health Insights:** Displays health status (e.g., Underweight, Normal, Overweight, etc.) based on the BMI value.
+![](https://github.com/thitiP11222/BMI-Calculator-Kotlin/blob/main/mockup.png)
 
 ---
 
-## Screenshots
+## **💻 Technologies Used**
 
-![Screenshot 1](path_to_your_screenshot_1)
-![Screenshot 2](path_to_your_screenshot_2)
+- **Programming Language**: Kotlin
+- **Development Environment**: Android Studio
+- **Version Control**: Git and GitHub
 
----
+## **📚 Usage**
+
+1. Enter your **height** (in meters or feet).
+2. Enter your **weight** (in kilograms or pounds).
+3. Press the **Calculate** button to see:
+   - Your BMI.
+   - Your health category.
+
 
 ## How to Run
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/BMI-Calculator-Kotlin.git
+
+
+
+ ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
