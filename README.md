@@ -1,6 +1,6 @@
 # BMI Calculator App
 
-A simple and intuitive Body Mass Index (BMI) Calculator built using Kotlin. This app helps users calculate their BMI based on height and weight and provides insights about their health status.
+A simple and intuitive Body Mass Index (BMI) Calculator built using Kotlin. This app helps users calculate their BMI based on height and weight.
 
 ---
 
